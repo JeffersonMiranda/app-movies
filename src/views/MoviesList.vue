@@ -99,6 +99,7 @@ export default {
     flex-wrap: wrap
   
   .footer-navigation
+    margin-top: 50px
     display: flex
     justify-content: space-between
     max-width: 300px
